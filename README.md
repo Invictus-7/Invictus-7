@@ -12,7 +12,7 @@
     Привет, меня зовут Кирилл.
 	</h1>
 
-Я бэкенд-разработчик на языке Python.
+Я backend-разработчик на языке Python.
 	
 - :telescope: Заканчиваю курсы по обучению веб-разработке на Яндекс.Практикуме;
 
@@ -20,7 +20,7 @@
 
 - :zap: Решаю задачи на leetcode и постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
 
-- :mailbox: Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/Telegram-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)](your-linkedin-url)
+- :mailbox: Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](your-linkedin-url)
 
 ---
 
