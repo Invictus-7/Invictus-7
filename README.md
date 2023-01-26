@@ -20,7 +20,7 @@
 
 - :zap: Решаю задачи на leetcode и постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
 
-- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Как со мной связаться: [![Telegram Badge](Telegram-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)](your-linkedin-url)
 
 ---
 
