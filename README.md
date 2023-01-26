@@ -12,14 +12,15 @@
     Привет, меня зовут Кирилл.
 	</h1>
 
-Я Python-разработчик из России.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Я бэкенд-разработчик на языке Python.
+	
+- :telescope: Заканчиваю курсы по обучению веб-разработке на Яндекс.Практикуме;
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучаю основы Javascript и в дальнейшем планирую освоить React - для того, чтобы писать полноценные веб-приложения;
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Решаю задачи на leetcode и постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
