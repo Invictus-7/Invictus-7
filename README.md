@@ -1,16 +1,7 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-	<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-brightgreen?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Invictus-7&style=flat-square&color=blue" alt=""/>
   <h1>
     Привет, меня зовут Кирилл.
-	</h1>
+  </h1>
 
 Я backend-разработчик на языке Python.
 	
