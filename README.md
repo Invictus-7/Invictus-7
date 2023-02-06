@@ -15,8 +15,7 @@
 
 - :zap: Решаю задачи на leetcode и постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
 
-- :mailbox: Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmonRa_7) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/AmonRa_7)
-
+- :mailbox: Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmonRa_7)
 ---
 
 ### Технологии, которыми я владею:
