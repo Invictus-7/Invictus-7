@@ -13,7 +13,7 @@
 
 - :zap: Изучаю основы Javascript и в дальнейшем планирую освоить React - для того, чтобы писать полноценные веб-приложения;
 
-- :zap: Решаю задачи на leetcode и постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
+- :zap: Постигаю тонкости языка Python по книге "Python. К вершинам мастерства".
 
 - :mailbox: Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmonRa_7)
 ---
