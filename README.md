@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <h1>
+<div id="header" align="left">
+  <h3>
     Senior Python/Django Developer
-  </h1>
+  </h3>
 </div>
 
 ### Stack
